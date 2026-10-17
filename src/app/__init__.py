@@ -1,0 +1,1 @@
+"""Mini Bank application package."""
